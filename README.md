@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi, I'm Jérôme</h1>
-<h3 align="center">A passionate Webdeveloper in Training</h3>
+<h3 align="center">A passionate Developer in perpetual Training</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripsj" alt="tripsj" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Python-Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
