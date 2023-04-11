@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi, I'm Jérôme</h1>
-<h3 align="center">A passionate Developer in perpetual Training</h3>
+# Hi, I'm Jérôme
+## A passionate Developer in perpetual Training
 
 
 - 🌱 I’m currently learning **Java** and **Python-Flask**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <div align="left">
   [<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/jerome-trips)
   </div>
