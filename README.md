@@ -2,13 +2,13 @@
 <h1 align="center">Hi, I'm Jérôme</h1>
 <h3 align="center">A passionate Developer in perpetual Training</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tripsj" alt="tripsj" /></a> </p>
 
 - 🌱 I’m currently learning **Java** and **Python-Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/jerome-trips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jérôme-trips" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/jerome-trips" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
